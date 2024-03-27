@@ -1,5 +1,5 @@
 # Unity Automation
-Automation test cases using the [AltTester](https://github.com/alttester/AltTester-Unity-SDK) tool within the Unity Engine written in C#.
+Automation test cases for [Endless Runner - Sample Game](https://assetstore.unity.com/packages/templates/tutorials/endless-runner-sample-game-87901) using the [AltTester](https://github.com/alttester/AltTester-Unity-SDK) tool within the Unity Engine written in C#.
 
 ## Test Case: Menu UI Selection
 Interact with every UI button within the main menu, and verify all menu buttons can be closed.
