@@ -112,7 +112,7 @@ MonoBehaviour:
     _foldOut: 1
     _testResultMessage: 
     _testStackTrace: 
-    _testDuration: 1.3336247
+    _testDuration: 1.4355377
     path: Assets/Editor/AltTester Tests/UITests.cs
     _testSelectedCount: 0
   - _selected: 1
@@ -211,7 +211,7 @@ MonoBehaviour:
     _buildIndex: 0
   platform: 1
   StandaloneTarget: 5
-  RanInEditor: 1
+  RanInEditor: 0
   ScenePathDisplayed: 0
   InputVisualizer: 0
   ShowPopUp: 1
