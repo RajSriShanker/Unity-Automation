@@ -12,7 +12,7 @@ Automation test cases for [Endless Runner - Sample Game](https://assetstore.unit
 | Manual Test  | Automation Test |
 | ------------- | ------------- |
 | ![AutomationTestGif_2](https://github.com/RajSriShanker/Unity-Automation/assets/7788792/c7c5588e-ee36-4796-8d70-029bfe38c855)  | ![AutomationTestGif](https://github.com/RajSriShanker/Unity-Automation/assets/7788792/d32ab72f-3b0c-499f-886d-29ee2b5e73f7)  |
-| 20 seconds | 1.4 seconds |
+| 2-4 minutes | 1.4 seconds |
 
 
 ## Test Case: Player Input & UI
@@ -26,4 +26,4 @@ Automation test cases for [Endless Runner - Sample Game](https://assetstore.unit
 | Manual Test  | Automation Test |
 | ------------- | ------------- |
 | ![AutomationTestGif_5](https://github.com/RajSriShanker/Unity-Automation/assets/7788792/b9ea76aa-ecaf-4fb6-ba63-ca453f5435e7) | ![AutomationTestGif_4](https://github.com/RajSriShanker/Unity-Automation/assets/7788792/5c238f3e-1a8d-4769-97ee-5ddea65a6bcb) |
-| 30 seconds | 18 seconds |
+| 8-10 minutes | 18 seconds |
